@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Desktop\\MyAPP\\MyApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|e:\\desktop\\myapp\\myapp\\myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|solutionrelative:myapp\\myapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|e:\\desktop\\myapp\\myapp\\myapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|solutionrelative:myapp\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|e:\\desktop\\myapp\\myapp\\myapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|solutionrelative:myapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Desktop\\MyAPP\\MyApp\\MyApp\\obj\\Debug\\net8.0-android\\MyApp.sourcelink.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApp\\obj\\Debug\\net8.0-android\\MyApp.sourcelink.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|e:\\desktop\\myapp\\myapp\\myapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0550C57A-EF72-4D9F-ABE4-59A46567079C}|MyApp\\MyApp.csproj|solutionrelative:myapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyApp",
+              "DocumentMoniker": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\MyApp.csproj",
+              "RelativeDocumentMoniker": "MyApp\\MyApp.csproj",
+              "ToolTip": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\MyApp.csproj",
+              "RelativeToolTip": "MyApp\\MyApp.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T05:54:41.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "MyApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "MyApp\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-18T05:54:35.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyApp.sourcelink.json",
+              "DocumentMoniker": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\obj\\Debug\\net8.0-android\\MyApp.sourcelink.json",
+              "RelativeDocumentMoniker": "MyApp\\obj\\Debug\\net8.0-android\\MyApp.sourcelink.json",
+              "ToolTip": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\obj\\Debug\\net8.0-android\\MyApp.sourcelink.json",
+              "RelativeToolTip": "MyApp\\obj\\Debug\\net8.0-android\\MyApp.sourcelink.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T05:50:12.124Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyApp\\MainPage.xaml.cs",
+              "ToolTip": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MyApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:53:01.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MyApp\\MainPage.xaml",
+              "ToolTip": "E:\\Desktop\\MyAPP\\MyApp\\MyApp\\MainPage.xaml",
+              "RelativeToolTip": "MyApp\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-26T08:52:59.253Z",
+              "EditorCaption": ""
             }
           ]
         }
