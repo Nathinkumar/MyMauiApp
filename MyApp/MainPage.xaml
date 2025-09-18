@@ -26,7 +26,7 @@
 
             <Button
                 x:Name="CounterBtn"
-                Text="Click HELO" 
+                Text="Click HELOOO" 
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Fill" />
