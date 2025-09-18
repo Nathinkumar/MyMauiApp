@@ -21,9 +21,9 @@ pipeline {
         }
 
         stage('Publish APK') {
-            steps {
-                bat 'dotnet publish MyApp/MyApp.csproj -c Release -f net8.0-android -o .\\output'
-            }
-        }
+    steps {
+        bat 'dotnet publish MyApp/MyApp.csproj -c Release -f net8.0-android -o .\\output /p:AndroidPackageFormat=apk'
+    }
+}
     }
 }
