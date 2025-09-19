@@ -12,11 +12,7 @@ pipeline {
                 bat 'dotnet workload install maui'
             }
         }
-          stage('Update Workloads') {
-            steps {
-                bat 'dotnet workload update maui'
-            }
-        }
+         
         stage('Restore') {
             steps {
                 bat 'dotnet restore MyApp.sln'
