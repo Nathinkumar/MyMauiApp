@@ -7,7 +7,11 @@ pipeline {
                 git branch: 'main', url: 'https://github.com/Nathinkumar/MyMauiApp.git'
             }
         }
-
+         stage('Install Workloads') {
+            steps {
+                bat 'dotnet workload install maui'
+            }
+        }
         stage('Restore') {
             steps {
                 bat 'dotnet restore MyApp.sln'
